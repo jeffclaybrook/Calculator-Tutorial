@@ -7,10 +7,8 @@ Build a basic calculator with HTML, CSS, and JavaScript
 - Vanilla JavaScript with arrow functions
 
 ### Demo link:
-https://jeffclaybrook.github.io/Calcu...
+https://jeffclaybrook.github.io/Calculator-Tutorial/
 
-### Source code:
-https://github.com/jeffclaybrook/Calc...
 
 In this tutorial, you'll create a very basic calculator app using HTML, CSS, and Javascript. This tutorial is intended for beginners and anyone who appreciates clean symmetrical code.
 
